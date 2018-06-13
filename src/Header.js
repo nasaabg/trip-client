@@ -30,7 +30,7 @@ class Header extends Component {
             href='#'
             active
             label='Log out'
-            icon='exit_to_app'
+            icon='flight_takeoff'
             className='Header-link'
             onClick={this.handleClickLogOut}
           />

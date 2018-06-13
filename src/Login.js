@@ -8,10 +8,10 @@ class Login extends Component {
       <div className="Login">
         <div className="Login-header">
           <h2 className="Login-title">
-            Flashcards
+            My trips
           </h2>
           <p className="Login-intro">
-            An app to learn any subject through spaced repetition.
+            An app to share with your trips.
           </p>
         </div>
         <div className="Login-buttons">
